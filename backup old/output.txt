@@ -1,0 +1,19 @@
+('Handheld', datetime.datetime(2023, 3, 16, 4, 26, 59))
+('POS', datetime.datetime(2023, 2, 24, 8, 20, 46))
+('INTEGRATION', datetime.datetime(2023, 2, 28, 17, 43, 11))
+('Smart phone', datetime.datetime(2022, 12, 30, 18, 20, 10))
+('WEB application', datetime.datetime(2023, 2, 20, 16, 52, 10))
+!!!!!
+
+!!!!!!
+
+!!!!!
+WEB smjene nisu uèitane dulje od 24 sata!!!!!!!!!! Posljednja uèitana - ( 262.5319198925 )
+Integration smjene nisu uèitane dulje od 24 sata!!!!!!!!!! Posljednja uèitana - ( 69.68164211472222 )
+SmartPhone smjene nisu uèitane dulje od 24 sata!!!!!!!!!! Posljednja uèitana - ( 1509.0652532258332 )
+Handheld ima smjene u buduænosti!!! - ( -301.04835788527777 )
+POS smjene nisu uèitane dulje od 24 sata!!!!!!!!!! Posljednja uèitana - ( 175.05525322583333 )
+!!!
+!!!
+!!!
+!!!

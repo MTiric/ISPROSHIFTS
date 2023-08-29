@@ -1,0 +1,4 @@
+Povezivanje na bazu preduvjet:
+
+pip install pyodbc 
+##ovo iznad instalira modul za povezivanje na bazu
